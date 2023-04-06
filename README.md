@@ -1,2 +1,2 @@
-# probabilistic_primality_tests
+# Probabilistic primality tests
 TIPE - end of preparatory class
